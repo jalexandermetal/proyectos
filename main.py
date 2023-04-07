@@ -2,3 +2,4 @@
 
 print("bienvenido a mi programa:")
 name = input("Cual es tu nombre:")
+edad = input("Cual es tu edad")
